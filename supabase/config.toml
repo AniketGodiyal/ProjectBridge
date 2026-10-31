@@ -1,0 +1,2 @@
+[functions.generate-project-plan]
+verify_jwt = false
